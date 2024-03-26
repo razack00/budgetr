@@ -1,0 +1,32 @@
+body {
+    background-color: #DDD0C8 !important;
+}
+
+.btn-bg {
+    border: none !important;
+    border-radius: 50px !important;
+    font-size:small !important;
+    text-transform: uppercase;
+    background-color: #323232 !important ;
+}
+
+.btn-bg:hover {
+    background-color: #0DCAF0 !important ;
+    color: black !important;
+}
+
+.btn-outline {
+    border-radius: 50px !important;
+    font-size:small !important;
+    text-transform: uppercase;
+}
+
+.link {
+    text-decoration: none;
+    padding-inline: 5px;
+}
+
+
+.link:hover {
+    color: #0DCAF0 !important;
+}
